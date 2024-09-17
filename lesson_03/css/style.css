@@ -1,0 +1,46 @@
+@import url("reset.css");
+
+* {
+  padding-bottom: 10px;
+}
+
+div {
+  color: blue;
+}
+
+#people-of-ukraine {
+  color: red;
+}
+
+.coat-of-arms {
+  color: brown;
+}
+
+[target*="bla"] {
+  color: hotpink;
+}
+
+div.statehood {
+  color: blueviolet;
+}
+
+.item1,
+.item2 {
+  color: red;
+}
+
+.list {
+  color: orange;
+}
+
+.agro {
+  color: blue;
+}
+
+.footer mark {
+  color: aqua;
+}
+
+.agro + li {
+  color: red ;
+}
